@@ -1,5 +1,12 @@
 # CPU-Process-Scheduler
-A CPU Process Scheduler supporting multiple types of scheduling algorithms.Implemented with Python and PyQt5.
+A CPU Process Scheduler, implemented with Python and PyQt5, supporting the following types of scheduling algorithms:
+
+- First Come, First Served
+- Round Robin
+- Shortest Job First (Non-preemptive)
+- Shortest Job First (Preemptive)
+- Priority (Non-preemptive)
+- Priority (Preemptive)
 
 # User Guide
 In order to use the application, please follow these simple steps:
